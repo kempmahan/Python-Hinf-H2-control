@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May 14 15:21:33 2020
-
-@author: kemper
- Pitch rate siso h2 and hinf 
- no uncertainty
-"""
 
 
 import numpy as np
