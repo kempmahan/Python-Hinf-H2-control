@@ -1,8 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May 15 14:21:30 2020
 
-@author: kemper
+"""
 Dutch roll Hinf and H2 control example
 """
 import numpy as np
